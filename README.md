@@ -1,4 +1,4 @@
-! [Example Image](war-abbasi/war-abbasi/Background LinkedIn.jpeg)
+
 - 👋 Hi, I’m @war-abbasi
 - 🔭 I’m a C++ programmer, with a keen interest in Artificial Intelligence and Machine Learning.
 - 🌱 I’m currently learning data structures and algorithms.
